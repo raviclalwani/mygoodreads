@@ -1,6 +1,3 @@
-# eBay React Coding Exercise Repo
-Thank you for your interest in eBay Engineering Team. This repo contains exercises used in eBay's recruitment process. These exercises are used for all frontend engineering roles, at all levels.
-
 Please complete the coding exercises below, upload code to a personal git repo, and share the link to your repo.
 
 #### Please don't fork this repo. Download/Clone the repository, finish the exercise and upload it as a new repository in your github account. Share with us the link for that repository
